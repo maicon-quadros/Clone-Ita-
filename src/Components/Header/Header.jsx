@@ -2,9 +2,9 @@ import React from "react";
 import * as S from "./styles"
 
 
-import LogoItau from "../assets/logo.svg"
+import LogoItau from "../../assets/logo.svg"
 import MenuItem from "./MenuItem";
-import IconUser from "../assets/icon-user.svg"
+import IconUser from "../../assets/icon-user.svg"
 
 
 
